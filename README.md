@@ -23,3 +23,4 @@ wpool:call(db, {q, "SELECT id, is_deleted FROM DEVICE"}, available_worker, 30000
 
 
 
+"# hecate" 
